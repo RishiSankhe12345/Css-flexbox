@@ -1,0 +1,25 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color: orange;
+    display:flex;
+    justify-content: space-between;
+}
+
+.images{
+   /* background-color: palevioletred; */
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
